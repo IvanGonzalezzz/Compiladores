@@ -1,3 +1,0 @@
-/home/ayumu/Documents/semestre6/comp/Compiladores/build/CMakeFiles/regex_to_nfa.dir
-/home/ayumu/Documents/semestre6/comp/Compiladores/build/CMakeFiles/edit_cache.dir
-/home/ayumu/Documents/semestre6/comp/Compiladores/build/CMakeFiles/rebuild_cache.dir

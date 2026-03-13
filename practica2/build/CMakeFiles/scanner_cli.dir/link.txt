@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/scanner_cli.dir/scanner.c.o -o scanner_cli  libscanner.a

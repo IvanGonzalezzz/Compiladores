@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/regex_to_nfa.dir/src/main.c.o CMakeFiles/regex_to_nfa.dir/src/nfa.c.o CMakeFiles/regex_to_nfa.dir/src/regex.c.o -o regex_to_nfa

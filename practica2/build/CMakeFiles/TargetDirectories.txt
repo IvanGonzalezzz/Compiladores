@@ -1,0 +1,5 @@
+/home/ayumu/Documents/semestre6/comp/Compiladores/practica2/build/CMakeFiles/scanner.dir
+/home/ayumu/Documents/semestre6/comp/Compiladores/practica2/build/CMakeFiles/scanner_cli.dir
+/home/ayumu/Documents/semestre6/comp/Compiladores/practica2/build/CMakeFiles/generate_scanner.dir
+/home/ayumu/Documents/semestre6/comp/Compiladores/practica2/build/CMakeFiles/edit_cache.dir
+/home/ayumu/Documents/semestre6/comp/Compiladores/practica2/build/CMakeFiles/rebuild_cache.dir
