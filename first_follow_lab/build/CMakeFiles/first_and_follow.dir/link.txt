@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/first_and_follow.dir/src/main.c.o CMakeFiles/first_and_follow.dir/src/grammar.c.o CMakeFiles/first_and_follow.dir/src/analyzer.c.o -o first_and_follow
