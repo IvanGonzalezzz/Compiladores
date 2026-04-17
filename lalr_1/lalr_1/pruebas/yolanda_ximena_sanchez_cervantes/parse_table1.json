@@ -1,0 +1,17 @@
+{
+  "numStates": 2,
+  "numTerminalsWithEof": 3,
+  "numNonTerminals": 3,
+  "hasConflicts": false,
+  "numConflicts": 0,
+  "terminals": ["->", "N", "$"],
+  "nonTerminals": ["->", "bunny", "U"],
+  "action": [
+    [{"type":"ERROR","value":-1}, {"type":"ERROR","value":-1}, {"type":"ERROR","value":-1}],
+    [{"type":"ERROR","value":-1}, {"type":"ERROR","value":-1}, {"type":"ACCEPT","value":0}]
+  ],
+  "goto": [
+    [1, -1, -1],
+    [-1, -1, -1]
+  ]
+}

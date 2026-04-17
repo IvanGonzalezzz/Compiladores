@@ -1,0 +1,6 @@
+Non-terminals: S T
+Terminals: [ ] void , id
+S -> [ T ]
+S -> void
+T -> id , [ T ]
+T -> id , void

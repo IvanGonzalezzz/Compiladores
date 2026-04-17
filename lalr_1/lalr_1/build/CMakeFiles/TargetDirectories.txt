@@ -1,0 +1,3 @@
+/home/ayumu/Documents/semestre6/tomascomp/Compiladores/lalr_1/lalr_1/build/CMakeFiles/first_and_follow.dir
+/home/ayumu/Documents/semestre6/tomascomp/Compiladores/lalr_1/lalr_1/build/CMakeFiles/edit_cache.dir
+/home/ayumu/Documents/semestre6/tomascomp/Compiladores/lalr_1/lalr_1/build/CMakeFiles/rebuild_cache.dir
