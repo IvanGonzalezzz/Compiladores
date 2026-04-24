@@ -1,0 +1,18 @@
+
+Instalación para la visualización del AST (FEDORA):
+sudo dnf install graphviz
+
+
+bison -d parser.y
+flex lexer.l
+g++ -std=c++11 parser.tab.c lex.yy.c -o compilador
+./compilador < pruebas/prueba.txt
+./compilador < pruebas/prueba2.txt
+./compilador < pruebas/prueba3.txt
+./compilador < pruebas/prueba4.txt
+./compilador < pruebas/prueba5.txt
+./compilador < pruebas/prueba6.txt
+./compilador < pruebas/prueba7.txt
+
+dot -Tpng ast.dot -o ast.png
+xdg-open ast.png
