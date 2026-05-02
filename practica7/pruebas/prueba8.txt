@@ -1,0 +1,7 @@
+DO main() |
+    DO x = 5 |||
+    DO y = 10 |||
+    DO z = x DO# y |||
+    SI z |||
+||
+

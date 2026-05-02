@@ -1,0 +1,4 @@
+FA b = VERDADERO |||
+FA# (b) |
+    LA! (b) |||
+||

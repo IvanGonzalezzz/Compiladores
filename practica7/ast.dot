@@ -1,0 +1,27 @@
+digraph AST {
+  node0 [label="Program"];
+  node1 [label="Function\nmain\nint"];
+  node2 [label="Statements"];
+  node3 [label="Declaration\nx\nint"];
+  node4 [label="Int\n5\nint"];
+  node3 -> node4;
+  node2 -> node3;
+  node5 [label="Declaration\ny\nint"];
+  node6 [label="Int\n10\nint"];
+  node5 -> node6;
+  node2 -> node5;
+  node7 [label="Declaration\nz\nint"];
+  node8 [label="Add\nint"];
+  node9 [label="Id\nx\nint"];
+  node8 -> node9;
+  node10 [label="Id\ny\nint"];
+  node8 -> node10;
+  node7 -> node8;
+  node2 -> node7;
+  node11 [label="Return"];
+  node12 [label="Id\nz\nint"];
+  node11 -> node12;
+  node2 -> node11;
+  node1 -> node2;
+  node0 -> node1;
+}
